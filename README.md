@@ -16,7 +16,16 @@ Hi, These are collections of UI resources. If you have more better advices, plea
 
 - Android  
 [Android 5.0/Material Design](https://www.behance.net/gallery/18067893/Android-L-Psd)
+
 ### Mockups
 
 - Mobile Phone
 - Web
+
+### Stock Image
+
+- [pexels](https://www.pexels.com/) （很多不错的高清大图，质量非常不错）
+- [wallhaven](http://alpha.wallhaven.cc/)（不用过多解释）
+- [pixabay](https://pixabay.com/)（免费的高清图库）
+- [Imfree](http://www.imcreator.com/free)（有人物、自然、艺术、生活、图标等分类。确实不错，可惜有的分类很少图）
+- [BEIZ Graphics](http://www.beiz.jp/)（日本高品质的免费图片素材站）
