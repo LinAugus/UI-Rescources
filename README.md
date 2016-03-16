@@ -29,3 +29,9 @@ Hi, These are collections of UI resources. If you have more better advices, plea
 - [pixabay](https://pixabay.com/)（免费的高清图库）
 - [Imfree](http://www.imcreator.com/free)（有人物、自然、艺术、生活、图标等分类。确实不错，可惜有的分类很少图）
 - [BEIZ Graphics](http://www.beiz.jp/)（日本高品质的免费图片素材站）
+
+### Icons
+
+- [nounproject](https://thenounproject.com/)（icon for everything，高质量的icon网站）  
+- [EasyIcon](http://www.easyicon.net/)(免费图标搜索和下载平台)  
+- [IconFinder](https://www.iconfinder.com/)（在线图标搜索引擎）
