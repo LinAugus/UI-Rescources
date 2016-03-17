@@ -19,8 +19,8 @@ Hi, These are collections of UI resources. If you have more better advices, plea
 
 ### Mockups
 
-- Mobile Phone
-- Web
+- [mockuuups]()
+- psd
 
 ### Stock Image
 
@@ -28,6 +28,9 @@ Hi, These are collections of UI resources. If you have more better advices, plea
 - [wallhaven](http://alpha.wallhaven.cc/)（不用过多解释）
 - [pixabay](https://pixabay.com/)（免费的高清图库）
 - [Imfree](http://www.imcreator.com/free)（有人物、自然、艺术、生活、图标等分类。确实不错，可惜有的分类很少图）
+- [cupcake](http://cupcake.nilssonlee.se/)（免费个人和商业使用，图片质量好）
+- [StockSnap](https://stocksnap.io/)（每天更新数十张，所以照片量挺多的）
+- [foodiesfeed](http://foodiesfeed.com/)（以食物为主题的图片分享站，很多美味的食品图片）
 - [BEIZ Graphics](http://www.beiz.jp/)（日本高品质的免费图片素材站）
 
 ### Icons
