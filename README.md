@@ -38,3 +38,10 @@ Hi, These are collections of UI resources. If you have more better advices, plea
 - [nounproject](https://thenounproject.com/)（icon for everything，高质量的icon网站）  
 - [EasyIcon](http://www.easyicon.net/)(免费图标搜索和下载平台)  
 - [IconFinder](https://www.iconfinder.com/)（在线图标搜索引擎）
+
+### Websites
+
+- [Dribbble](https://dribbble.com/)（国外顶尖的设计社区，汇集全世界顶尖的设计师的作品，作品覆盖各个领域，icon、APP、网页等等。是学习和临摹的好去处。）
+- [Behance](https://www.behance.net/)（adobe旗下的设计师网站，同样是国外的顶尖设计交流社区，作品也是覆盖各个领域。）
+- [UIcn](http://www.ui.cn/)（国内一个不错的网站，前身是iconfans，以 UI 为主）
+- [学 UI 网](http://www.xueui.cn/)（UI 小白入门必备网站）
