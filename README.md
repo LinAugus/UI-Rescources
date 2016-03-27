@@ -48,3 +48,17 @@ Hi, These are collections of UI resources. If you have more better advices, plea
 - [优设网](http://www.uisdc.com/)（有很多很多不错的教程，综合类设计网站）
 - [学 UI 网](http://www.xueui.cn/)（UI 小白入门必备网站）
 - [pttrns](http://pttrns.com/)（专门收集优秀APP截图的酷站，UI'er必备的灵感网站之一）
+
+### UED
+
+- [腾讯 ISUX](http://isux.tencent.com/)
+- [腾讯 TGIDEAS](http://tgideas.qq.com/)
+- [腾讯 MXD](http://mxd.tencent.com/)
+- [淘宝 UED](http://ued.taobao.org/blog/)
+- [百度 UED](http://mux.baidu.com/)
+- [新浪 UED](http://ued.sina.com.cn/)
+- [网易 UEDC](http://uedc.163.com/)
+- [京东 JDC](http://jdc.jd.com/)
+- [畅游 VC](http://vc.changyou.com/)
+- [携程 UED](http://ued.ctrip.com/blog/)
+- [网秦 UED](http://uec.nq.com/)
