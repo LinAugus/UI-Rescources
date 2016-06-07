@@ -22,6 +22,7 @@ Hi, These are collections of UI resources. If you have more better advices, plea
 
 - [freebiesbug](http://freebiesbug.com/)（有很多质量不错的设计资源）
 - [freebbble](http://freebbble.com/)（免费下载，来自`dribbble`的高质量设计资源）
+- [smartmockup](http://smartmockups.com)(一秒生成高格调网站/APP展示模版图的在线神器)
 
 ### Stock Image
 
@@ -49,7 +50,7 @@ Hi, These are collections of UI resources. If you have more better advices, plea
 - [学 UI 网](http://www.xueui.cn/)（UI 小白入门必备网站）
 - [pttrns](http://pttrns.com/)（专门收集优秀APP截图的酷站，UI'er必备的灵感网站之一）
 
-### UED
+### UED(国内比较知名互联网公司)
 
 - [腾讯 ISUX](http://isux.tencent.com/)
 - [腾讯 TGIDEAS](http://tgideas.qq.com/)
@@ -61,4 +62,3 @@ Hi, These are collections of UI resources. If you have more better advices, plea
 - [京东 JDC](http://jdc.jd.com/)
 - [畅游 VC](http://vc.changyou.com/)
 - [携程 UED](http://ued.ctrip.com/blog/)
-- [网秦 UED](http://uec.nq.com/)
