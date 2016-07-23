@@ -35,6 +35,10 @@ Hi, These are collections of UI resources. If you have more better advices, plea
 - [foodiesfeed](http://foodiesfeed.com/)（以食物为主题的图片分享站，很多美味的食品图片）
 - [BEIZ Graphics](http://www.beiz.jp/)（日本高品质的免费图片素材站）
 
+### 配色
+- [ColorDrop](https://colordrop.io/)  (有很多不错的色板、如果很烦配色，可以来这里取色)
+- [Color Hunt](https://colordrop.io/)  (跟上面那一个一样，都是很好的配色网站～)
+
 ### Icons
 
 - [nounproject](https://thenounproject.com/)（icon for everything，高质量的icon网站，经常上的一个网站，能够发现很多灵感）  
